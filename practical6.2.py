@@ -1,4 +1,4 @@
-def multiplyList(myList):
+def multi(myList):
 
 	result = 1
 	for x in myList:
@@ -7,5 +7,5 @@ def multiplyList(myList):
 
 list1 = [1, 2, 3]
 list2 = [3, 2, 4]
-print(multiplyList(list1))
-print(multiplyList(list2))
+print(multi(list1))
+print(multi(list2))
