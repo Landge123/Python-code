@@ -6,4 +6,4 @@ def even(l):
     return enum
 print(even([1, 2, 3, 4, 5, 6, 7, 8, 9]))
  
- f
+ 
