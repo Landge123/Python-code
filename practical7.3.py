@@ -22,15 +22,12 @@ def printValue(digit):
     elif digit == '6':
         print("Six ", end = " ")
 
-    # For digit 7
     elif digit == '7':
         print("Seven", end = " ")
 
-    # For digit 8
     elif digit == '8':
         print("Eight", end = " ")
 
-    # For digit 9
     elif digit == '9':
         print("Nine ", end = " ")
 
